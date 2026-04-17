@@ -25,21 +25,21 @@ def generate_qr(url, output):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Gera um QR Code em SVG a partir de uma URL"
+        description="Generate an SVG QR Code from a URL"
     )
 
     parser.add_argument(
         "-u","--url",
         type=str,
         required=True,
-        help="URL de entrada para o QR Code"
+        help="Input URL for QR Code"
     )
 
     parser.add_argument(
         "-o","--output",
         type=str,
         required=True,
-        help="Nome do arquivo SVG de saída (ex: qrcode.svg)"
+        help="Output SVG file name (ex: qrcode.svg)"
     )
 
     args = parser.parse_args()

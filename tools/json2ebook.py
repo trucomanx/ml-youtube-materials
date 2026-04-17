@@ -59,26 +59,26 @@ def json_to_epub(json_path, output_epub):
     # Salvar EPUB
     epub.write_epub(output_epub, book)
 
-    print(f"EPUB gerado com sucesso: {output_epub}")
+    print(f"EPUB generated successfully: {output_epub}")
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Converte um arquivo JSON em EPUB (1 página por item)"
+        description="Converts a JSON file to EPUB (1 page per item)"
     )
 
     parser.add_argument(
         "-i", "--input",
         type=str,
         required=True,
-        help="Caminho do arquivo JSON de entrada"
+        help="Input JSON file path"
     )
 
     parser.add_argument(
         "-o", "--output",
         type=str,
         required=True,
-        help="Caminho do arquivo EPUB de saída"
+        help="Output EPUB file path"
     )
 
     args = parser.parse_args()
