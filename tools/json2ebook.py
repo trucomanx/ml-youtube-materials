@@ -69,12 +69,14 @@ def main():
 
     parser.add_argument(
         "-i", "--input",
+        type=str,
         required=True,
         help="Caminho do arquivo JSON de entrada"
     )
 
     parser.add_argument(
         "-o", "--output",
+        type=str,
         required=True,
         help="Caminho do arquivo EPUB de saída"
     )

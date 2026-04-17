@@ -29,14 +29,16 @@ def main():
     )
 
     parser.add_argument(
-        "url",
+        "-u","--url",
         type=str,
+        required=True,
         help="URL de entrada para o QR Code"
     )
 
     parser.add_argument(
-        "output",
+        "-o","--output",
         type=str,
+        required=True,
         help="Nome do arquivo SVG de saída (ex: qrcode.svg)"
     )
 
