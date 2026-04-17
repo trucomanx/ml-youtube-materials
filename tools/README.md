@@ -3,13 +3,13 @@
 ## 📄 url2qr.py
 
 **example:**
-```
+```bash
 python url2qr.py --url "https://www.youtube.com/seu-canal" --output qrcode.svg
 ```
 
 **help:**
 
-```
+```bash
 usage: url2qr.py [-h] -u URL -o OUTPUT
 
 Generate an SVG QR Code from a URL
@@ -25,14 +25,14 @@ options:
 
 **example:**
 
-```
+```bash
 python json2ebook.py --input "guion.json" --output "guion.epub"
 ```
 
 **help:**
 
 
-```
+```bash
 usage: json2ebook.py [-h] -i INPUT -o OUTPUT
 
 Converts a JSON file to EPUB (1 page per item)
