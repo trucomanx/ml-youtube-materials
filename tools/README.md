@@ -2,11 +2,12 @@
 
 ## url2qr.py
 
+**example:**
 ```
 python url2qr.py --url "https://www.youtube.com/seu-canal" --output qrcode.svg
 ```
 
-help
+**help:**
 
 ```
 usage: url2qr.py [-h] -u URL -o OUTPUT
@@ -22,11 +23,13 @@ options:
 
 ## json2ebook.py
 
+**example:**
+
 ```
 python json2ebook.py --input "guion.json" --output "guion.epub"
 ```
 
-help
+**help:**
 
 
 ```
