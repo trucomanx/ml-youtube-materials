@@ -20,10 +20,3 @@ Storage for all **completed and released** videos in youtube.
 The core of the workflow, containing **automation scripts**.
 *   **Contents:** Python, Bash, or other scripts necessary to run the generation pipeline, process data, and move files through the workflow (from *drafts* to *published*).
 
----
-
-## How to Use
-1. Place your initial data or start your project inside the `drafts/` folder.
-2. Use the scripts located in `tools/` to process or generate your content.
-3. Once the video is finalized and shared, move the project folder and its data to `published/`.
-
