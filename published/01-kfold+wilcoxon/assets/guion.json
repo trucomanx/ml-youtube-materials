@@ -1,0 +1,74 @@
+[
+  {
+    "slide": "title",
+    "hook": "Você já comparou dois modelos e não sabia qual realmente é melhor?",
+    "script": "Nesse vídeo eu vou te mostrar como comparar modelos de machine learning de forma estatística, usando k-fold cross-validation e o teste de Wilcoxon. Nada de achismo, só evidência.",
+    "notes": "Fala com energia, esse é o gancho principal do vídeo"
+  },
+  {
+    "slide": "dilema",
+    "hook": "Esse aqui é o problema clássico.",
+    "script": "Você treina dois modelos, A e B. Um parece melhor em alguns casos, o outro em outros... e aí vem a pergunta: A realmente é melhor que B, ou isso foi só sorte?",
+    "notes": "Pausa depois da pergunta"
+  },
+  {
+    "slide": "problem",
+    "hook": "Vamos formalizar isso.",
+    "script": "Nosso objetivo é simples: determinar se a arquitetura A é melhor que a B. Para isso, vamos usar k-fold cross-validation para gerar múltiplas avaliações e depois um teste estatístico, o Wilcoxon, para comparar os modelos.",
+    "notes": "Tom mais didático"
+  },
+  {
+    "slide": "kfold_1",
+    "hook": "Primeiro passo: k-fold.",
+    "script": "Aqui a gente divide o dataset em K partes. Em cada iteração, usamos uma parte para validação e o resto para treino. Isso nos dá várias estimativas de performance.",
+    "notes": "Aponta mentalmente para a imagem"
+  },
+  {
+    "slide": "kfold_2",
+    "hook": "E repetimos isso várias vezes.",
+    "script": "Cada fold gera um resultado diferente. Isso é importante, porque um único split pode enganar. Com k-fold, temos uma visão mais robusta do desempenho.",
+    "notes": "Enfatiza 'um único split pode enganar'"
+  },
+  {
+    "slide": "table",
+    "hook": "Agora vem o ponto chave.",
+    "script": "Para cada fold, temos um score para A e um para B. A tentação é comparar as médias, mas isso pode ser enganoso. A gente precisa comparar fold a fold.",
+    "notes": "Tom de alerta"
+  },
+  {
+    "slide": "paired",
+    "hook": "E aqui entra a ideia mais importante.",
+    "script": "Como usamos os mesmos folds, a comparação é pareada. Para cada fold, calculamos a diferença: A menos B. E analisamos esse vetor de diferenças.",
+    "notes": "Esse é o conceito central — fala devagar"
+  },
+  {
+    "slide": "wilcoxon",
+    "hook": "Agora entra a estatística.",
+    "script": "O teste de Wilcoxon verifica se essas diferenças estão consistentemente acima de zero. Ou seja: se A tende a ser melhor que B.",
+    "notes": "Simplifica, evita jargão excessivo"
+  },
+  {
+    "slide": "hypothesis",
+    "hook": "Vamos escrever isso formalmente.",
+    "script": "A hipótese nula diz que a mediana das diferenças é menor ou igual a zero. A alternativa diz que é maior que zero. Se o p-valor for pequeno, concluímos que A tende a superar B.",
+    "notes": "Tom mais acadêmico, mas claro"
+  },
+  {
+    "slide": "python",
+    "hook": "E na prática, isso é bem simples.",
+    "script": "Com poucas linhas em Python, usando SciPy, você roda o teste de Wilcoxon. O parâmetro 'greater' indica que estamos testando se A é maior que B. Se o p-valor for menor que 0.05, temos evidência a favor de A.",
+    "notes": "Aponta para o código / QR code"
+  },
+  {
+    "slide": "limitation",
+    "hook": "Mas tem um detalhe importante.",
+    "script": "Os folds não são totalmente independentes, porque os conjuntos de treino se sobrepõem. Então esse teste é uma aproximação. Funciona bem na prática, mas precisa ser interpretado com cuidado.",
+    "notes": "Tom sério, reduz hype"
+  },
+  {
+    "slide": "conclusion",
+    "hook": "Resumo rápido.",
+    "script": "Use k-fold para gerar múltiplas avaliações, compare os modelos de forma pareada e aplique o teste de Wilcoxon. Se o resultado for significativo, você pode dizer com mais confiança que um modelo é melhor que o outro.",
+    "notes": "Fechamento claro"
+  }
+]

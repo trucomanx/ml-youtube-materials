@@ -28,7 +28,13 @@
 
 \begin{document}
 
-\frame{\titlepage}
+\frame{\titlepage
+\begin{tikzpicture}[remember picture, overlay]
+\node[anchor=south east, xshift=0cm, yshift=1.0cm] 
+at (current page.south east)
+{\includegraphics[width=2.5cm]{homepage.pdf}};
+\end{tikzpicture}
+}
 
 %------------------------------------------------
 
@@ -190,6 +196,12 @@ If $p < 0.05$, A tends to outperform B on the same folds.
 %------------------------------------------------
 
 \begin{frame}[fragile]{Wilcoxon Test in Python}
+
+\begin{tikzpicture}[remember picture, overlay]
+\node[anchor=north east, xshift=0cm, yshift=-0.2cm] 
+at (current page.north east)
+{\includegraphics[width=2.5cm]{qrcode.pdf}};
+\end{tikzpicture}
 
 \texttt{alternative="greater"} $\Rightarrow$ tests whether $d_k = A - B > 0$
 
