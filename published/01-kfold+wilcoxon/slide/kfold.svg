@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="351.7626mm"
+   height="165.61542mm"
+   viewBox="0 0 351.7626 165.61542"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   sodipodi:docname="kfold.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.43024095"
+     inkscape:cx="662.41951"
+     inkscape:cy="507.85496"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="camada1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(61.452805,-8.6124669)">
+    <rect
+       style="fill:#cbcbcb;fill-opacity:1;stroke-width:2.9539;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect7"
+       width="351.7626"
+       height="33.777477"
+       x="-61.452805"
+       y="21.812578"
+       ry="3.47877"
+       inkscape:label="box" />
+    <g
+       id="g8"
+       inkscape:label="datasets">
+      <g
+         id="g2-4-2"
+         inkscape:label="fold5"
+         transform="translate(24.16508,37.527935)">
+        <g
+           id="g1-0-9-93"
+           transform="translate(-24.165086,87.127482)">
+          <rect
+             style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-6-5-9"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-3-0-0"><tspan
+               sodipodi:role="line"
+               id="tspan1-2-4-8"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">val</tspan></text>
+        </g>
+        <g
+           id="g1-2-0-8-8"
+           transform="translate(-62.227381,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-3-6-7-5"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-7-1-1-0"><tspan
+               sodipodi:role="line"
+               id="tspan1-5-5-7-96"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-22-5-2-3"
+           transform="translate(-100.28968,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-8-4-7-8"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-9-7-2-5"><tspan
+               sodipodi:role="line"
+               id="tspan1-7-6-2-6"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-6-5-6-1"
+           transform="translate(-138.35198,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-1-6-1-1"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-2-9-0-59"><tspan
+               sodipodi:role="line"
+               id="tspan1-9-3-6-8"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-1-7-1-4"
+           transform="translate(-176.41428,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-9-4-5-8"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-4-5-9-1"><tspan
+               sodipodi:role="line"
+               id="tspan1-78-2-4-0"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2-4-0"
+         inkscape:label="fold4"
+         transform="translate(24.165084,6.3640807)">
+        <g
+           id="g1-0-9-9"
+           transform="translate(-24.165086,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-6-5-1"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-3-0-7"><tspan
+               sodipodi:role="line"
+               id="tspan1-2-4-7"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-2-0-8-1"
+           transform="translate(-62.227381,87.127482)">
+          <rect
+             style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-3-6-7-1"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-7-1-1-5"><tspan
+               sodipodi:role="line"
+               id="tspan1-5-5-7-9"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">val</tspan></text>
+        </g>
+        <g
+           id="g1-22-5-2-7"
+           transform="translate(-100.28968,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-8-4-7-7"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-9-7-2-6"><tspan
+               sodipodi:role="line"
+               id="tspan1-7-6-2-7"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-6-5-6-3"
+           transform="translate(-138.35198,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-1-6-1-6"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-2-9-0-5"><tspan
+               sodipodi:role="line"
+               id="tspan1-9-3-6-6"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-1-7-1-3"
+           transform="translate(-176.41428,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-9-4-5-9"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-4-5-9-4"><tspan
+               sodipodi:role="line"
+               id="tspan1-78-2-4-8"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2-4"
+         inkscape:label="fold3"
+         transform="translate(24.165088,-24.799773)">
+        <g
+           id="g1-0-9"
+           transform="translate(-24.165086,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-6-5"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-3-0"><tspan
+               sodipodi:role="line"
+               id="tspan1-2-4"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-2-0-8"
+           transform="translate(-62.227381,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-3-6-7"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-7-1-1"><tspan
+               sodipodi:role="line"
+               id="tspan1-5-5-7"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-22-5-2"
+           transform="translate(-100.28968,87.127482)">
+          <rect
+             style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-8-4-7"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-9-7-2"><tspan
+               sodipodi:role="line"
+               id="tspan1-7-6-2"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">val</tspan></text>
+        </g>
+        <g
+           id="g1-6-5-6"
+           transform="translate(-138.35198,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-1-6-1"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-2-9-0"><tspan
+               sodipodi:role="line"
+               id="tspan1-9-3-6"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-1-7-1"
+           transform="translate(-176.41428,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-9-4-5"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-4-5-9"><tspan
+               sodipodi:role="line"
+               id="tspan1-78-2-4"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2"
+         inkscape:label="fold2"
+         transform="translate(24.165088,-55.963628)">
+        <g
+           id="g1-0"
+           transform="translate(-24.165086,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-6"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-3"><tspan
+               sodipodi:role="line"
+               id="tspan1-2"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-2-0"
+           transform="translate(-62.227381,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-3-6"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-7-1"><tspan
+               sodipodi:role="line"
+               id="tspan1-5-5"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-22-5"
+           transform="translate(-100.28968,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-8-4"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-9-7"><tspan
+               sodipodi:role="line"
+               id="tspan1-7-6"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-6-5"
+           transform="translate(-138.35198,87.127482)">
+          <rect
+             style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-1-6"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-2-9"><tspan
+               sodipodi:role="line"
+               id="tspan1-9-3"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">val</tspan></text>
+        </g>
+        <g
+           id="g1-1-7"
+           transform="translate(-176.41428,87.127482)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-9-4"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-4-5"><tspan
+               sodipodi:role="line"
+               id="tspan1-78-2"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3"
+         inkscape:label="fold1">
+        <g
+           id="g1">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1"><tspan
+               sodipodi:role="line"
+               id="tspan1"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-2"
+           transform="translate(-38.062298)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-3"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-7"><tspan
+               sodipodi:role="line"
+               id="tspan1-5"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-22"
+           transform="translate(-76.124595)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-8"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-9"><tspan
+               sodipodi:role="line"
+               id="tspan1-7"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-6"
+           transform="translate(-114.18689)">
+          <rect
+             style="fill:#257538;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-1"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-2"><tspan
+               sodipodi:role="line"
+               id="tspan1-9"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">train</tspan></text>
+        </g>
+        <g
+           id="g1-1"
+           transform="translate(-152.24919)">
+          <rect
+             style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect1-9-9"
+             width="35.222546"
+             height="21.742313"
+             x="169.76682"
+             y="27.83016"
+             ry="3.4787703" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+             x="187.40515"
+             y="43.401402"
+             id="text1-4"><tspan
+               sodipodi:role="line"
+               id="tspan1-78"
+               style="fill:#ffffff;stroke-width:0.166572"
+               x="187.40515"
+               y="43.401402">val</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4"
+       inkscape:label="iterations">
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="-20.580132"
+         y="43.38448"
+         id="text1-3-0-0-0"
+         inkscape:label="iteration1"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4"
+           style="fill:#000000;stroke-width:0.166572"
+           x="-20.580132"
+           y="43.38448">Iteration 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="-21.734003"
+         y="167.94853"
+         id="text1-3-0-0-0-4"
+         inkscape:label="iteration5"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-4"
+           style="fill:#000000;stroke-width:0.166572"
+           x="-21.734003"
+           y="167.94853">Iteration 5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="-21.811831"
+         y="74.440895"
+         id="text1-3-0-0-0-4-6"
+         inkscape:label="iteration2"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-4-3"
+           style="fill:#000000;stroke-width:0.166572"
+           x="-21.811831"
+           y="74.440895">Iteration 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="-21.767841"
+         y="105.49731"
+         id="text1-3-0-0-0-4-7"
+         inkscape:label="iteration3"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-4-5"
+           style="fill:#000000;stroke-width:0.166572"
+           x="-21.767841"
+           y="105.49731">Iteration 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="-21.923496"
+         y="136.76353"
+         id="text1-3-0-0-0-4-62"
+         inkscape:label="iteration4"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-4-1"
+           style="fill:#000000;stroke-width:0.166572"
+           x="-21.923496"
+           y="136.76353">Iteration 4</tspan></text>
+    </g>
+    <g
+       id="g5"
+       inkscape:label="folds">
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="35.298088"
+         y="18.648785"
+         id="text1-3-0-0-0-8"
+         inkscape:label="fold1"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-5"
+           style="fill:#000000;stroke-width:0.166572"
+           x="35.298088"
+           y="18.648785">fold1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="187.41531"
+         y="18.540503"
+         id="text1-3-0-0-0-8-4"
+         inkscape:label="fold5"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-5-1"
+           style="fill:#000000;stroke-width:0.166572"
+           x="187.41531"
+           y="18.540503">fold5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="72.362167"
+         y="18.648785"
+         id="text1-3-0-0-0-8-5"
+         inkscape:label="fold2"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-5-9"
+           style="fill:#000000;stroke-width:0.166572"
+           x="72.362167"
+           y="18.648785">fold2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="110.60719"
+         y="18.513433"
+         id="text1-3-0-0-0-8-53"
+         inkscape:label="fold3"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-5-8"
+           style="fill:#000000;stroke-width:0.166572"
+           x="110.60719"
+           y="18.513433">fold3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.166572"
+         x="149.02478"
+         y="18.594645"
+         id="text1-3-0-0-0-8-3"
+         inkscape:label="fold4"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-4-8-4-5-18"
+           style="fill:#000000;stroke-width:0.166572"
+           x="149.02478"
+           y="18.594645">fold4</tspan></text>
+    </g>
+    <g
+       id="g7"
+       inkscape:label="scores">
+      <g
+         id="g1-1-6"
+         transform="translate(64.802283)"
+         inkscape:label="score1">
+        <rect
+           style="fill:#000000;stroke-width:3.47335;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect1-9-9-43"
+           width="47.214375"
+           height="21.742313"
+           x="169.76682"
+           y="27.83016"
+           ry="3.4787703" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+           x="193.59395"
+           y="43.083324"
+           id="text1-4-3"><tspan
+             sodipodi:role="line"
+             id="tspan1-78-3"
+             style="fill:#ffffff;stroke-width:0.166572"
+             x="193.59395"
+             y="43.083324">score 1</tspan></text>
+      </g>
+      <g
+         id="g6"
+         transform="translate(103.60035,72.58141)"
+         inkscape:label="score5">
+        <rect
+           style="fill:#000000;stroke-width:3.47335;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect1-9-9-43-6"
+           width="47.214375"
+           height="21.742313"
+           x="130.96875"
+           y="79.904167"
+           ry="3.4787703" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+           x="154.79588"
+           y="95.157333"
+           id="text1-4-3-0"><tspan
+             sodipodi:role="line"
+             id="tspan1-78-3-4"
+             style="fill:#ffffff;stroke-width:0.166572"
+             x="154.79588"
+             y="95.157333">score 5</tspan></text>
+      </g>
+      <g
+         id="g1-1-6-8"
+         transform="translate(64.802283,31.163854)"
+         inkscape:label="score2">
+        <rect
+           style="fill:#000000;stroke-width:3.47335;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect1-9-9-43-8"
+           width="47.214375"
+           height="21.742313"
+           x="169.76682"
+           y="27.83016"
+           ry="3.4787703" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+           x="193.59395"
+           y="43.083324"
+           id="text1-4-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan1-78-3-7"
+             style="fill:#ffffff;stroke-width:0.166572"
+             x="193.59395"
+             y="43.083324">score 2</tspan></text>
+      </g>
+      <g
+         id="g1-1-6-6"
+         transform="translate(64.802283,62.327709)"
+         inkscape:label="score3">
+        <rect
+           style="fill:#000000;stroke-width:3.47335;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect1-9-9-43-4"
+           width="47.214375"
+           height="21.742313"
+           x="169.76682"
+           y="27.83016"
+           ry="3.4787703" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+           x="193.59395"
+           y="43.083324"
+           id="text1-4-3-3"><tspan
+             sodipodi:role="line"
+             id="tspan1-78-3-0"
+             style="fill:#ffffff;stroke-width:0.166572"
+             x="193.59395"
+             y="43.083324">score 3</tspan></text>
+      </g>
+      <g
+         id="g1-1-6-0"
+         transform="translate(64.802283,93.491563)"
+         inkscape:label="score4">
+        <rect
+           style="fill:#000000;stroke-width:3.47335;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect1-9-9-43-9"
+           width="47.214375"
+           height="21.742313"
+           x="169.76682"
+           y="27.83016"
+           ry="3.4787703" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.86px;line-height:1.25;font-family:'Averia GWF';-inkscape-font-specification:'Averia GWF, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.166572"
+           x="193.59395"
+           y="43.083324"
+           id="text1-4-3-2"><tspan
+             sodipodi:role="line"
+             id="tspan1-78-3-5"
+             style="fill:#ffffff;stroke-width:0.166572"
+             x="193.59395"
+             y="43.083324">score 4</tspan></text>
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.78489;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 208.41696,38.766604 221.27758,38.66062"
+       id="path8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
