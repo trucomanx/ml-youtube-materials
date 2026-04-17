@@ -70,5 +70,11 @@
     "hook": "Resumo rápido.",
     "script": "Use k-fold para gerar múltiplas avaliações, compare os modelos de forma pareada e aplique o teste de Wilcoxon. Se o resultado for significativo, você pode dizer com mais confiança que um modelo é melhor que o outro.",
     "notes": "Fechamento claro"
+  },
+  {
+    "slide": "final",
+    "hook": "Então voltando à pergunta inicial...",
+    "script": "Será que o modelo A realmente performa melhor que o B? Agora você não precisa mais confiar em um único número ou na intuição. Você tem uma forma estatística, consistente e muito mais confiável de responder isso.",
+    "notes": "Fala mais devagar, com pausa antes da última frase"
   }
 ]
