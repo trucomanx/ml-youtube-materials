@@ -12,9 +12,9 @@ Contains all **work-in-progress** video projects.
 *   **Contents:** Includes generation data, raw assets, prompts, and temporary files used during the creation process before the final export.
 
 ### 📂 published/
-Storage for all **completed and released** videos.
+Storage for all **completed and released** videos in youtube.
 *   **Subfolders:** Organized by project name or date of publication.
-*   **Contents:** Final video files along with the specific generation metadata used for the final version (for archival and future reference).
+*   **Contents:** Final video source files along with the specific generation metadata used for the final version (for archival and future reference).
 
 ### 📂 tools/
 The core of the workflow, containing **automation scripts**.
