@@ -11,6 +11,13 @@ def json_to_epub(json_path, output_epub):
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    if not isinstance(data, list):
+        raise ValueError("JSON must be a list of objects")
+
+    for i, item in enumerate(data):
+        if not isinstance(item, dict):
+            raise ValueError(f"Item {i} is not a valid object")
+
     # Criar livro
     book = epub.EpubBook()
 
