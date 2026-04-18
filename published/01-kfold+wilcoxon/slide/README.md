@@ -1,0 +1,6 @@
+# Generate
+
+```bash
+./build.sh
+
+```
