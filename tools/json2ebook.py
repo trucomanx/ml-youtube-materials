@@ -63,8 +63,29 @@ def json_to_epub(json_path, output_epub):
 
 
 def main():
+    example_json = """
+Example JSON format:
+
+[
+  {
+    "slide": "Title of the slide",
+    "hook": "Short engaging sentence",
+    "script": "Main content text",
+    "notes": "Additional notes"
+  },
+  {
+    "slide": "Another title",
+    "hook": "Another hook",
+    "script": "More content",
+    "notes": "More notes"
+  }
+]
+"""
+        
     parser = argparse.ArgumentParser(
-        description="Converts a JSON file to EPUB (1 page per item)"
+        description="Converts a JSON file to EPUB (1 page per item)",
+        epilog=example_json,
+        formatter_class=argparse.RawDescriptionHelpFormatter
     )
 
     parser.add_argument(

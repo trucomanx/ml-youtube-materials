@@ -43,6 +43,23 @@ options:
                         Input JSON file path
   -o OUTPUT, --output OUTPUT
                         Output EPUB file path
+
+Example JSON format:
+
+[
+  {
+    "slide": "Title of the slide",
+    "hook": "Short engaging sentence",
+    "script": "Main content text",
+    "notes": "Additional notes"
+  },
+  {
+    "slide": "Another title",
+    "hook": "Another hook",
+    "script": "More content",
+    "notes": "More notes"
+  }
+]
 ```
 
 
